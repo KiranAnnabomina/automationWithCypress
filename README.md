@@ -1,1 +1,2 @@
 # automationWithCypress
+# learningCypressWithTypescriptAndJavascript
